@@ -1,3 +1,4 @@
+/* eslint-disable */
 // Write your Color component here
 import { useState } from 'react'
 
